@@ -1,0 +1,28 @@
+{
+  "name": "pwa-backend-api",
+  "version": "1.0.0",
+  "description": "Back end api using node js and express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/birukabel/AppandWebMidLevelDeveloper.git"
+  },
+  "keywords": [
+    "pwa",
+    "nodejs",
+    "express",
+    "js"
+  ],
+  "author": "Biruk Abel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/birukabel/AppandWebMidLevelDeveloper/issues"
+  },
+  "homepage": "https://github.com/birukabel/AppandWebMidLevelDeveloper#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
